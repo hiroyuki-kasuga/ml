@@ -1,0 +1,8 @@
+{
+  "generator-react-webpack": {
+    "app-name": "ml",
+    "architecture": "flux",
+    "styles-language": "sass",
+    "component-suffix": "jsx"
+  }
+}
